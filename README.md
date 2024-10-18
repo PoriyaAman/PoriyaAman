@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 
 - 💞️ I’m looking to collaborate on **exciting projects involving mobile apps, web development, and any innovative tech solutions.** If you have a cool idea or a challenging project, let’s work together!
 
-- 📫 How to reach me: **Feel free to contact me via [email](developer.amanporiya@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).** 
+- 📫 How to reach me: **Feel free to contact me via [email](developer.amanporiya@gmail.com) or connect with me on [LinkedIn]().** 
 
 - 😄 Pronouns: **He** 
 

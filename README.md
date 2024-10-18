@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Here’s a little about me:
 
-- 👀 I’m interested in **software development, particularly in mobile app development with Flutter and backend solutions.** I love exploring new technologies and building innovative projects.
+- 👀 I’m interested in **software development, particularly in mobile app development with Flutter, FlutterFlow and backend solutions.** I love exploring new technologies and building innovative projects.
 
 - 🌱 I’m currently learning **advanced concepts in Flutter and cloud services, including Cloud Function and Edge Function.** I'm also diving into AI intigration and tools to enhance my skill set.
 
